@@ -20,8 +20,9 @@ weight: 20
 ## [Virtualization](./virtualization)
 
 - Exposing single database as an OData service in less than 5 minutes
- 
+
+![virtualization example image](../images/virtualization.png)
+
 ## [Integration](./integration)
 
 - Combine 2 database instances and report as single source in under 5 minutes
-
