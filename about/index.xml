@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Teiid</title>
+    <link>https://teiid.github.io/about/</link>
+    <description>Recent content in Abouts on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Connectors</title>
+      <link>https://teiid.github.io/about/basics/connectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/connectors/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+Translators and Resource Adaptors Translators A Translator provides an abstraction layer between Teiid Query Engine and physical data source, that knows how to convert Teiid issued query commands into source specific commands and execute them using the Resource Adaptor. It also have smarts to convert the result data that came from the physical source into a form that Teiid Query engine is expecting.</description>
+    </item>
+    
+    <item>
+      <title>Data Services</title>
+      <link>https://teiid.github.io/about/basics/dataservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/dataservices/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+Services Data access services via data virtualization provide important abstraction and decoupling features.
+   Services and Abstraction Decoupling is the key concept in services and is achieved through abstraction based on service interfaces. Business processes represent a formalized executable form of the actual enterprise&amp;rsquo;s processes, but offer a layer of abstraction above the physical processes, be they automated or manual.</description>
+    </item>
+    
+    <item>
+      <title>Models</title>
+      <link>https://teiid.github.io/about/basics/models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/models/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+   Models A model is a representation of a set of information constructs. A familiar model is the relational model, which defines tables composed of columns and containing records of data.
+In Teiid, models are used to define the entities, and relationships between those entities, required to fully define the integration of information sets so that they may be accessed in a uniform manner using a single API and access protocol.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Databases</title>
+      <link>https://teiid.github.io/about/basics/vdbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/vdbs/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+   The Virtual Database A virtual database (or VDB) is a container for components used to integrate data from multiple data sources, so that they can be accessed in an integrated manner through a single, uniform API.
+A VDB contains models, which define the structural characteristics of data sources, views, and Web services.</description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://teiid.github.io/about/faq/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/faq/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+What is Teiid? First it&amp;rsquo;s a whiptailed lizard, but it&amp;rsquo;s much more. Teiid provides a data virtualization and secure data access layer that can simplify your data integration with your applications.
+Frequently Asked Questions What is Teiid?
+Teiid is a Java component that can be embedded in your Java application to provide integrated access to multiple data sources through a single uniform API.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://teiid.github.io/about/history/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/history/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; |&amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid and MetaMatrix MetaMatrix pioneered the EII (Enterprise Information Integration) market segment. Through many product iterations, the core of the MetaMatrix technology represents an advanced and proven approach to scalable information using a relational abstraction.
+MetaMatrix joined Red Hat under JBoss Middleware in April of 2007. At the time MetaMatrix followed a closed source model.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Basics</title>
+      <link>https://teiid.github.io/about/basics/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/</guid>
+      <description> About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid Basics  Virtual Databases - Learn about how Teiid encapsulates your data access as a database. Models - Learn about how Teiid represents metadata. Connectors - Learn about how Teiid connects to enterprise information systems. Data Access Services - Learn about how Teiid exposes data access service.  </description>
+    </item>
+    
+    <item>
+      <title>Why Teiid</title>
+      <link>https://teiid.github.io/about/why-teiid/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/why-teiid/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+1. Familiar Interface: JDBC
+Teiid has a very familiar interface: JDBC! Every Java developer is familiar with JDBC access to data sources. Now leverage your knowledge of the JDBC standard to access all your data sources.
+ JDBC 4.0 API DML SQL-92 support (with select SQL-99 and later features) Support for standard JDBC scalar functions  2.</description>
+    </item>
+    
+  </channel>
+</rss>

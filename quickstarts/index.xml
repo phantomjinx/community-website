@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quickstarts on Teiid</title>
+    <link>https://teiid.github.io/quickstarts/</link>
+    <description>Recent content in Quickstarts on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.github.io/quickstarts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.github.io/quickstarts/integration/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/access-data-service/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+ Open new browser with the copied OData route URL  execute example OData queries and see results   </description>
+    </item>
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/access-data-service/</guid>
+      <description> Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Pre-Requisites  Define a Data Service  Access the US States data service  Video demonstrating testing the virtualization  </description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.github.io/quickstarts/integration/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/define-data-service/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+ Open Beetle Studio  connect to MySQL database create a view joining some of your data test your data publish your data service copy the URL provided for the OData route.   </description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/define-data-service/</guid>
+      <description> Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Pre-Requisites  Setup  Define a Data Service Uses beetle-studio to:
+ Create a connection to the Openshift US-States database service; Create a virtualization using the connection adding filters if required; Publish the virtualization to Openshift.   Video creating a new virtualization  </description>
+    </item>
+    
+    <item>
+      <title>Integration Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/integration/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart will lead you through integration of a data service</description>
+    </item>
+    
+    <item>
+      <title>Setup for Integration Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/integration/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/setup/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Setup All you need is a Minishift installation which is available for all the major operating systems (Linux, OS X and Windows).
+The following examples assume that you have Minishift installed and can be called with minishift from the command line. So, minishift is supposed to be available in your search path, i.e. located in a directory contained in your $PATH environment variable (Linux, macOS) or in a directory from your system path (Windows)</description>
+    </item>
+    
+    <item>
+      <title>Setup for Teiid Cloud Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/setup/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Setup Minishift A Minishift installation which is available for all the major operating systems (Linux, OS X and Windows).
+ Video installing minishift  Database Service This provides a data service in Openshift which can be virtualized. The database is populated with basic tables containing USA district, city and state information.
+ Video installing the data service  Beetle Studio The beetle-studio services provide the UI, API and repository for generating new virtualization services from existing Openshift services.</description>
+    </item>
+    
+    <item>
+      <title>Virtualization Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart demonstrates the virtualization of a data service
+Goal: A database instance exposed as OData.
+ Setup  Install minishift Configure minishift with the following services  PostgresSQL DB data service Beetle Studio / Teiid Runtime / Wildfly server       Define a Data Service  Create a connection to the DB data service Create a virtualization of the connection Publish the virtualization      Access the Data Service  Execute example OData queries and see results     </description>
+    </item>
+    
+  </channel>
+</rss>

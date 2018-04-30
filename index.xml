@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teiid</title>
+    <link>https://teiid.github.io/</link>
+    <description>Recent content on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 15:02:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Connectors</title>
+      <link>https://teiid.github.io/about/basics/connectors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/connectors/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+Translators and Resource Adaptors Translators A Translator provides an abstraction layer between Teiid Query Engine and physical data source, that knows how to convert Teiid issued query commands into source specific commands and execute them using the Resource Adaptor. It also have smarts to convert the result data that came from the physical source into a form that Teiid Query engine is expecting.</description>
+    </item>
+    
+    <item>
+      <title>Data Services</title>
+      <link>https://teiid.github.io/about/basics/dataservices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/dataservices/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+Services Data access services via data virtualization provide important abstraction and decoupling features.
+   Services and Abstraction Decoupling is the key concept in services and is achieved through abstraction based on service interfaces. Business processes represent a formalized executable form of the actual enterprise&amp;rsquo;s processes, but offer a layer of abstraction above the physical processes, be they automated or manual.</description>
+    </item>
+    
+    <item>
+      <title>Models</title>
+      <link>https://teiid.github.io/about/basics/models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/models/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+   Models A model is a representation of a set of information constructs. A familiar model is the relational model, which defines tables composed of columns and containing records of data.
+In Teiid, models are used to define the entities, and relationships between those entities, required to fully define the integration of information sets so that they may be accessed in a uniform manner using a single API and access protocol.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Documents</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/docs/</guid>
+      <description>Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project. For product users, the community documentation can be used in conjunction with the product documentation and the community resources to answer any question you might have. The documentation project can be found at gitbooks/github.
+ The 10.x series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
+ The 9.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Downloads</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/downloads/</guid>
+      <description>Runtime Latest  Version 10.1.2  Teiid Runtime (with Wildfly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Unstable  Version 10.2 SNAPSHOT  Teiid Runtime (with Wildfly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   IMPORTANT NOTE: Teiid is targeted to specific platforms. See more below.
+Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Quickstart</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/quickstart/</guid>
+      <description>The Quickstart guide for data virtualization on a wildfly server using Teiid is documented at: http://github.com/teiid/teiid-quickstarts.
+This Quick Start Guide takes you through an introduction to the concepts important to Teiid, downloading the software, building and deploying a virtual database and integrating data sources. The goal is to provide you with examples that help explain how to use to Teiid in order to get you off the ground. It also introduces to some of the essential concepts of Teiid.</description>
+    </item>
+    
+    <item>
+      <title>Virtual Databases</title>
+      <link>https://teiid.github.io/about/basics/vdbs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/vdbs/</guid>
+      <description>Teiid Basics &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Virtual Databases &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Models &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Data Services &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Connectors
+   The Virtual Database A virtual database (or VDB) is a container for components used to integrate data from multiple data sources, so that they can be accessed in an integrated manner through a single, uniform API.
+A VDB contains models, which define the structural characteristics of data sources, views, and Web services.</description>
+    </item>
+    
+    <item>
+      <title>Engineering Guidelines</title>
+      <link>https://teiid.github.io/community/engineering_guidelines/</link>
+      <pubDate>Fri, 19 May 2017 15:02:30 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/community/engineering_guidelines/</guid>
+      <description>Heads up! TBD ... Please check back soon.  </description>
+    </item>
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.github.io/quickstarts/integration/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/access-data-service/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+ Open new browser with the copied OData route URL  execute example OData queries and see results   </description>
+    </item>
+    
+    <item>
+      <title>Access Data Service</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/access-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/access-data-service/</guid>
+      <description> Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Pre-Requisites  Define a Data Service  Access the US States data service  Video demonstrating testing the virtualization  </description>
+    </item>
+    
+    <item>
+      <title>Contributing to Teiid</title>
+      <link>https://teiid.github.io/community/contributing/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/community/contributing/</guid>
+      <description>There are many ways to contribute to Teiid. All contributions are valued and welcomed, be it fixing a typo in documentation, raising an issue to report a bug, or creating a whole new awesome feature. Don&amp;rsquo;t worry if this is your first contribution to an open source project: the Teiid maintainers can help you if you need it.
+Improving documentation Documentation is in various places in our repositories. We are committed to streamlining this, but for now there are a few different places to look.</description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.github.io/quickstarts/integration/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/define-data-service/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+ Open Beetle Studio  connect to MySQL database create a view joining some of your data test your data publish your data service copy the URL provided for the OData route.   </description>
+    </item>
+    
+    <item>
+      <title>Define a Data Service</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/define-data-service/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/define-data-service/</guid>
+      <description> Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Pre-Requisites  Setup  Define a Data Service Uses beetle-studio to:
+ Create a connection to the Openshift US-States database service; Create a virtualization using the connection adding filters if required; Publish the virtualization to Openshift.   Video creating a new virtualization  </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>https://teiid.github.io/about/faq/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/faq/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+What is Teiid? First it&amp;rsquo;s a whiptailed lizard, but it&amp;rsquo;s much more. Teiid provides a data virtualization and secure data access layer that can simplify your data integration with your applications.
+Frequently Asked Questions What is Teiid?
+Teiid is a Java component that can be embedded in your Java application to provide integrated access to multiple data sources through a single uniform API.</description>
+    </item>
+    
+    <item>
+      <title>History</title>
+      <link>https://teiid.github.io/about/history/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/history/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; |&amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid and MetaMatrix MetaMatrix pioneered the EII (Enterprise Information Integration) market segment. Through many product iterations, the core of the MetaMatrix technology represents an advanced and proven approach to scalable information using a relational abstraction.
+MetaMatrix joined Red Hat under JBoss Middleware in April of 2007. At the time MetaMatrix followed a closed source model.</description>
+    </item>
+    
+    <item>
+      <title>Integration Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/integration/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart will lead you through integration of a data service</description>
+    </item>
+    
+    <item>
+      <title>Setup for Integration Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/integration/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/integration/setup/</guid>
+      <description>Integration Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Setup All you need is a Minishift installation which is available for all the major operating systems (Linux, OS X and Windows).
+The following examples assume that you have Minishift installed and can be called with minishift from the command line. So, minishift is supposed to be available in your search path, i.e. located in a directory contained in your $PATH environment variable (Linux, macOS) or in a directory from your system path (Windows)</description>
+    </item>
+    
+    <item>
+      <title>Setup for Teiid Cloud Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/setup/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/setup/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+Setup Minishift A Minishift installation which is available for all the major operating systems (Linux, OS X and Windows).
+ Video installing minishift  Database Service This provides a data service in Openshift which can be virtualized. The database is populated with basic tables containing USA district, city and state information.
+ Video installing the data service  Beetle Studio The beetle-studio services provide the UI, API and repository for generating new virtualization services from existing Openshift services.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Basics</title>
+      <link>https://teiid.github.io/about/basics/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/basics/</guid>
+      <description> About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid Basics  Virtual Databases - Learn about how Teiid encapsulates your data access as a database. Models - Learn about how Teiid represents metadata. Connectors - Learn about how Teiid connects to enterprise information systems. Data Access Services - Learn about how Teiid exposes data access service.  </description>
+    </item>
+    
+    <item>
+      <title>Teiid Embedded</title>
+      <link>https://teiid.github.io/teiid_four_ways/embedded/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/embedded/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+Teiid Embedded is a light-weight version of Teiid for use in any Java 7+ JRE. WildFly nor any application server is not required. This feature is still evolving. Please consult the source examples and even unit tests utilizing the EmbeddedServer for a more complete guide as to its use.
+See The Embedded Examples for how to integrate multiple, heterogeneous data stores and enterprise services in a light-weight way.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Microservices</title>
+      <link>https://teiid.github.io/teiid_four_ways/microservices/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/microservices/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+   The Teiid project includes a feature to help you develop data services within Spring applications and expose them as microservices.
+Teiid Spring Boot &amp;hellip;. is a framework for developing Spring applications that utilize Data Virtualization features. Data Virtualization technology provides seamless integration with multiple hetrogenious data sources.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Swarm</title>
+      <link>https://teiid.github.io/teiid_four_ways/wildfly_swarm/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/wildfly_swarm/</guid>
+      <description> Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+   The Teiid feature in the Wildfly Swarm universe is provided via composable pieces or fractions.
+Teiid fraction  https://github.com/wildfly-swarm/wildfly-swarm/tree/master/fractions/teiid  Config API  https://github.com/wildfly-swarm/wildfly-swarm/teiid-config-api.  Examples  https://github.com/teiid/wildfly-swarm-teiid-examples  </description>
+    </item>
+    
+    <item>
+      <title>Virtualization Quickstart</title>
+      <link>https://teiid.github.io/quickstarts/virtualization/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/virtualization/</guid>
+      <description>Virtualization Quickstart &amp;gt; Setup &amp;gt; Define a Data Service &amp;gt; Access Data Service
+This &amp;ldquo;Teiid in the Cloud&amp;rdquo; quickstart demonstrates the virtualization of a data service
+Goal: A database instance exposed as OData.
+ Setup  Install minishift Configure minishift with the following services  PostgresSQL DB data service Beetle Studio / Teiid Runtime / Wildfly server       Define a Data Service  Create a connection to the DB data service Create a virtualization of the connection Publish the virtualization      Access the Data Service  Execute example OData queries and see results     </description>
+    </item>
+    
+    <item>
+      <title>Why Teiid</title>
+      <link>https://teiid.github.io/about/why-teiid/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/about/why-teiid/</guid>
+      <description>About &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+1. Familiar Interface: JDBC
+Teiid has a very familiar interface: JDBC! Every Java developer is familiar with JDBC access to data sources. Now leverage your knowledge of the JDBC standard to access all your data sources.
+ JDBC 4.0 API DML SQL-92 support (with select SQL-99 and later features) Support for standard JDBC scalar functions  2.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.
+Teiid is comprised of tools, components and services for creating and executing bi-directional data access services.
+Through abstraction and federation, data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record.</description>
+    </item>
+    
+    <item>
+      <title>Beetle Studio</title>
+      <link>https://teiid.github.io/tools/beetle_studio/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/tools/beetle_studio/</guid>
+      <description>Beetle Studio is a browser-based visual tool that enables rapid, model-driven definition, integration, management and testing your data services.
+Connect to your sources, define the views and the source data you want to access in your applications and create data services
+   </description>
+    </item>
+    
+    <item>
+      <title>Teiid Designer</title>
+      <link>https://teiid.github.io/tools/teiid_designer/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/tools/teiid_designer/</guid>
+      <description> Teiid Designer is a visual tool built for Eclipse, that enables rapid, model-driven definition, integration, management and testing your VDBs using the Teiid runtime framework.
+   Download and Install
+User Guide - HTML | HTML Single | PDF
+User Guide Table Of Contents Version 11.1.2
+Copyright © 2018 Red Hat, Inc.
+Legal Notice
+Table of Contents (abbreviated)
+ Introduction Dive Right In! Server Management New Model Wizards Importers Creating and Editing Model Objects Metadata-specific Modeling User Defined Functions Editing Models and Projects Managing VDBs Testing Your Models Materialization Support Searching Appendices  Supported Data Sources Designer Metadata Usage Requirements In Teiid Runtime User Preferences UI Reference   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://teiid.github.io/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/roadmap/</guid>
+      <description>Roadmap Current Sprint: 12 Ends: May 12, 2017 (Fri)
+Preview Release Requirements &amp;amp; Stories
+JIRA Narrative
+JIRA Issues for Keynote</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://teiid.github.io/tbd_page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/tbd_page/</guid>
+      <description>Placeholder Page The link you pressed does not have a corresponding content page.
+Click browser &amp;lt;back button to return to previous page</description>
+    </item>
+    
+    <item>
+      <title>About Teiid</title>
+      <link>https://teiid.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/about/</guid>
+      <description>Why Teiid &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; FAQ &amp;nbsp;&amp;nbsp; |&amp;nbsp;&amp;nbsp; Basics &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Project History
+Teiid offers a relational abstraction of all information sources that is highly performant and allows for integration with your existing relational tools. Teiid has an accompanying easy-to-use design tool that enables data architects to integrate disparate information in minutes.
+Teiid has a long history of addressing the data access needs of any size enterprise environment. Have a look at Why Teiid?</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://teiid.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/blog/</guid>
+      <description>The Teiid Blog is on Blogspot: http://teiid.blogspot.com/</description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>https://teiid.github.io/community/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/community/</guid>
+      <description>We  community! Contributions and feedback in whatever form are always welcome, as long as they&amp;rsquo;re constructive!
+Here are some important links:
+ Source code: GitHub organization IRC: #teiid on freenode  </description>
+    </item>
+    
+    <item>
+      <title>Issues</title>
+      <link>https://teiid.github.io/issues/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/issues/</guid>
+      <description>There are 3 JIRA projects for issues related to Teiid and associated tools.
+ Teiid Core &amp;gt;&amp;gt; https://issues.jboss.org/projects/TEIID/issues Web Tooling &amp;gt;&amp;gt; https://issues.jboss.org/projects/TEIIDTOOLS/issues Teiid Designer Tooling &amp;gt;&amp;gt; https://issues.jboss.org/projects/TEIIDDES/issues  </description>
+    </item>
+    
+    <item>
+      <title>Quickstarts</title>
+      <link>https://teiid.github.io/quickstarts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/quickstarts/</guid>
+      <description> Take a tour and try your hand at Teiid in the cloud... Virtualization Quickstart  Exposing single database as an OData service in less than 5 minutes      Integration Quickstart  Combine 2 database instances and report as single source in under 5 minutes  </description>
+    </item>
+    
+    <item>
+      <title>Teiid 4 Ways</title>
+      <link>https://teiid.github.io/teiid_four_ways/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/</guid>
+      <description>In addition to accessing Teiid in the the cloud there are 4 additional ways you can utilize Teiid in your development, namely:
+Teiid Wildfly  Integration of Teiid as a module on the popular WildFly Java Application Server and accessing your data services via JDBC, OData and REST APIs.  Teiid Wildfly Swarm  Integration of Teiid on the popular WildFly Java Application Server for running Teiid as microservices in your applications   Teiid Microservices  Teiid implemented for the Spring Boot framework  Teiid Embedded  A light-weight version of Teiid for use in any Java 7+ JRE application.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Cloud</title>
+      <link>https://teiid.github.io/teiid_cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_cloud/</guid>
+      <description> With Teiid Cloud you can&amp;hellip;
+ Define and utilize simple cloud microservices that provide access to specific data sets from one or more sources Define simple microservices from within your application and expose them in the cloud via your application      Data Virtualization Services Teiid is all about virtualizing your data to provide an abstraction layer to facilitate
+ performance optimization micro data services improved security and governance schema migration  </description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://teiid.github.io/tooling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/tooling/</guid>
+      <description>The Teiid project includes a few tools to help you develop and manage various artifacts and components.
+Beetle Studio    Teiid Designer *Teiid Designer** is a visual tool built in Eclipse, that enables rapid, model-driven definition, integration, management and testing your VDBs using the Teiid runtime framework.
+   Teiid Console The Teiid Console is a graphical web based administrative tool that is written using the GWT technologies which is used to monitor the JBoss AS instances.</description>
+    </item>
+    
+  </channel>
+</rss>

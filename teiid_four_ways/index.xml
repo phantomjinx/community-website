@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teiid_four_ways on Teiid</title>
+    <link>https://teiid.github.io/teiid_four_ways/</link>
+    <description>Recent content in Teiid_four_ways on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.github.io/teiid_four_ways/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teiid Wildfly Documents</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/docs/</guid>
+      <description>Teiid documentation provides introductory material, manuals, and guides covering nearly every aspect of the project. For product users, the community documentation can be used in conjunction with the product documentation and the community resources to answer any question you might have. The documentation project can be found at gitbooks/github.
+ The 10.x series of releases use gitbook, which can be used to download PDF, EPUB, and MOBI documentation.
+ The 9.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Downloads</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/downloads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/downloads/</guid>
+      <description>Runtime Latest  Version 10.1.2  Teiid Runtime (with Wildfly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   Unstable  Version 10.2 SNAPSHOT  Teiid Runtime (with Wildfly/Console) Teiid AdminShell JDBC Driver Teiid Source Release Notes/Change Log Teiid Web Console   IMPORTANT NOTE: Teiid is targeted to specific platforms. See more below.
+Maven You may also directly reference the Teiid artifacts from the download table above from the Maven Central Repository.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Quickstart</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/quickstart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/quickstart/</guid>
+      <description>The Quickstart guide for data virtualization on a wildfly server using Teiid is documented at: http://github.com/teiid/teiid-quickstarts.
+This Quick Start Guide takes you through an introduction to the concepts important to Teiid, downloading the software, building and deploying a virtual database and integrating data sources. The goal is to provide you with examples that help explain how to use to Teiid in order to get you off the ground. It also introduces to some of the essential concepts of Teiid.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Embedded</title>
+      <link>https://teiid.github.io/teiid_four_ways/embedded/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/embedded/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+Teiid Embedded is a light-weight version of Teiid for use in any Java 7+ JRE. WildFly nor any application server is not required. This feature is still evolving. Please consult the source examples and even unit tests utilizing the EmbeddedServer for a more complete guide as to its use.
+See The Embedded Examples for how to integrate multiple, heterogeneous data stores and enterprise services in a light-weight way.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Microservices</title>
+      <link>https://teiid.github.io/teiid_four_ways/microservices/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/microservices/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+   The Teiid project includes a feature to help you develop data services within Spring applications and expose them as microservices.
+Teiid Spring Boot &amp;hellip;. is a framework for developing Spring applications that utilize Data Virtualization features. Data Virtualization technology provides seamless integration with multiple hetrogenious data sources.</description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly Swarm</title>
+      <link>https://teiid.github.io/teiid_four_ways/wildfly_swarm/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/wildfly_swarm/</guid>
+      <description> Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+   The Teiid feature in the Wildfly Swarm universe is provided via composable pieces or fractions.
+Teiid fraction  https://github.com/wildfly-swarm/wildfly-swarm/tree/master/fractions/teiid  Config API  https://github.com/wildfly-swarm/wildfly-swarm/teiid-config-api.  Examples  https://github.com/teiid/wildfly-swarm-teiid-examples  </description>
+    </item>
+    
+    <item>
+      <title>Teiid Wildfly</title>
+      <link>https://teiid.github.io/teiid_four_ways/teiid_wildfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teiid.github.io/teiid_four_ways/teiid_wildfly/</guid>
+      <description>Teiid 4 Ways &amp;nbsp;&amp;nbsp; &amp;lt; &amp;nbsp;&amp;nbsp; Wildfly &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Wildfly Swarm &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Microservices &amp;nbsp;&amp;nbsp; | &amp;nbsp;&amp;nbsp; Embedded
+Teiid is a data virtualization system that allows applications to use data from multiple, heterogeneous data stores.
+Teiid is comprised of tools, components and services for creating and executing bi-directional data access services.
+Through abstraction and federation, data is accessed and integrated in real-time across distributed data sources without copying or otherwise moving data from its system of record.</description>
+    </item>
+    
+  </channel>
+</rss>

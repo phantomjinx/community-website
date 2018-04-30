@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on Teiid</title>
+    <link>https://teiid.github.io/tools/</link>
+    <description>Recent content in Tools on Teiid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 19 May 2017 14:40:12 +0100</lastBuildDate>
+    
+	<atom:link href="https://teiid.github.io/tools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beetle Studio</title>
+      <link>https://teiid.github.io/tools/beetle_studio/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/tools/beetle_studio/</guid>
+      <description>Beetle Studio is a browser-based visual tool that enables rapid, model-driven definition, integration, management and testing your data services.
+Connect to your sources, define the views and the source data you want to access in your applications and create data services
+   </description>
+    </item>
+    
+    <item>
+      <title>Teiid Designer</title>
+      <link>https://teiid.github.io/tools/teiid_designer/</link>
+      <pubDate>Fri, 19 May 2017 14:40:12 +0100</pubDate>
+      
+      <guid>https://teiid.github.io/tools/teiid_designer/</guid>
+      <description> Teiid Designer is a visual tool built for Eclipse, that enables rapid, model-driven definition, integration, management and testing your VDBs using the Teiid runtime framework.
+   Download and Install
+User Guide - HTML | HTML Single | PDF
+User Guide Table Of Contents Version 11.1.2
+Copyright © 2018 Red Hat, Inc.
+Legal Notice
+Table of Contents (abbreviated)
+ Introduction Dive Right In! Server Management New Model Wizards Importers Creating and Editing Model Objects Metadata-specific Modeling User Defined Functions Editing Models and Projects Managing VDBs Testing Your Models Materialization Support Searching Appendices  Supported Data Sources Designer Metadata Usage Requirements In Teiid Runtime User Preferences UI Reference   </description>
+    </item>
+    
+  </channel>
+</rss>

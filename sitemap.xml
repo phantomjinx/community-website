@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://teiid.github.io/about/basics/connectors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/basics/dataservices/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/basics/models/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/teiid_wildfly/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/teiid_wildfly/downloads/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/teiid_wildfly/quickstart/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/basics/vdbs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/community/engineering_guidelines/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/integration/access-data-service/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/virtualization/access-data-service/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/community/contributing/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/integration/define-data-service/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/virtualization/define-data-service/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/faq/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/history/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/integration/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/integration/setup/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/virtualization/setup/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/basics/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/embedded/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/microservices/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/wildfly_swarm/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/virtualization/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/why-teiid/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/teiid_wildfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tools/beetle_studio/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tools/teiid_designer/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tbd_page/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/about/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/blog/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/community/</loc>
+    <lastmod>2017-05-19T15:02:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/community/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/issues/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/quickstarts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/teiid_four_ways/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tools/</loc>
+    <lastmod>2017-05-19T14:40:12+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://teiid.github.io/tooling/</loc>
+  </url>
+  
+</urlset>
